@@ -105,6 +105,6 @@ Here is an example of how the tool works:
 
 ## Contact
 
-For any questions or suggestions, please contact Shobhit Kasturey at [shobhitkasturey@gmail.com].
+For any questions or suggestions, please contact Shobhit Kasturey at shobhitkasturey@gmail.com.
 ```
 
